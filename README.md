@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I'm Noah Sizemore
 
-<!--
-**NoahSizemore/NoahSizemore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ML implementation. 
+- 🌱 I’m currently studying Computer Science.
+- 📫 How to reach me: LinkedIn attached to profile
+- 😄 Pronouns: He/Him
+  
+## What are my goals?
 
-Here are some ideas to get you started:
+- I aspire to be productive in the field of AI safety, whether that be through engineering, research, etc.
+- I want to be proficient in what I do. If that means studying and learning extra details, I'm up for it. Taking some of my personal time to slow down and analyze details, I'm up for it. Anything in the pursuit of advancements in myself.
+- I desire to be impactful through my work. I want my projects to not be mundane and menial, I aspire for my work to have depth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My languages:
+
+The languages I know are as follows:
+
+- Python
+- Java
+- Bash and PowerShell scripting
