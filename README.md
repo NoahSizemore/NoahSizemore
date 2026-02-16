@@ -18,3 +18,5 @@ The languages I know are as follows:
 - Python
 - Java
 - Bash and PowerShell scripting
+- Dart
+- C++
