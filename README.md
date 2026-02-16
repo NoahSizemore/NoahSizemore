@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Noah Sizemore
 
-- 🔭 I’m currently working on ML implementation. 
+- 🔭 I’m currently working on honing in on my coding skills. 
 - 🌱 I’m currently studying Computer Science.
 - 📫 How to reach me: LinkedIn attached to profile
 - 😄 Pronouns: He/Him
