@@ -15,7 +15,7 @@
 
 The languages I know are as follows:
 
-- Python (PyTorch, Numpy, Pandas, Matplot.lib, sk-learn, etc.)
+- Python (PyTorch, Numpy, Pandas, Matplotlib, sk-learn, etc.)
 - Java
 - Bash and PowerShell scripting
 - Dart
