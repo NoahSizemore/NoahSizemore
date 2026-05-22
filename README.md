@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Noah Sizemore
 
-- 🔭 I’m currently working on honing in on my coding skills. 
+- 🔭 I’m currently working on AI research at TAMUSA with Dr. Gongbo "Tony" Liang.
 - 🌱 I’m currently studying Computer Science.
 - 😄 Pronouns: He/Him
   
