@@ -7,6 +7,7 @@
 
 - My ultimate goal is to work on inner alignment and/or scalable oversight AI safety research. I concern myself with these fields because I have a deep passion to ensure these powerful tools are used correctly now and for many centuries to come.
 - I am looking to find a career in AI safety research in a frontier lab (i.e., Anthropic, DeepMind, OpenAI, and more). I believe my work and passion is best suited for environments that are currently impacting the scope and world of AI usage.
+- I am open to opportunities outside of the scope of AI safety (i.e., Trustworthy AI, Computer Vision, Uncertainty Quantification, etc.)
 
 ## Where I am now...
 
